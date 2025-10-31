@@ -23,7 +23,7 @@ Ejecuta el programa principal con:
 python main.py
 ```
 
-## 📤 Salida Esperad
+## 📤 Salida Esperada
 
 ### Vehiculo: Automóvil
 
@@ -74,7 +74,9 @@ Clase Moto
 
 - Impuesto del 5% para motos ≤ 250cc
 - Impuesto del 9% para motos > 250cc
-  Clase Automovil
+
+Clase Automovil
+
 - Impuesto del 7% para autos de 5 puertas
 - Impuesto del 8% para otros números de puertas
 
