@@ -41,35 +41,35 @@ python main.py
 
 ### Vehiculo: Automóvil
 
-Marca: Toyota,
-Modelo: Corolla,
-Precio Base: $25000.00 COP,
-Puertas: 5,
-Precio Final: $26750.00 COP
+**Marca:** Toyota,
+**Modelo:** Corolla,
+**Precio Base:** $25000.00 COP,
+**Puertas:** 5,
+**Precio Final:** $26750.00 COP
 
 ### Vehiculo: Automóvil
 
-Marca: Honda,
-Modelo: Civic,
-Precio Base: $22000.00 COP,
-Puertas: 4,
-Precio Final: $23760.00 COP
+**Marca:** Honda,
+**Modelo:** Civic,
+**Precio Base:** $22000.00 COP,
+**Puertas:** 4,
+**Precio Final:** $23760.00 COP
 
 ### Vehiculo: Motocicleta
 
-Marca: Yamaha,
-Modelo: MT-03,
-Precio Base: $5000.00 COP,
-CC: 321,
-Precio Final: $5450.00 COP
+**Marca:** Yamaha,
+**Modelo:** MT-03,
+**Precio Base:** $5000.00 COP,
+**CC:** 321,
+**Precio Final:** $5450.00 COP
 
 ### Vehiculo: Motocicleta
 
-Marca: Honda,
-Modelo: CBR125R,
-Precio Base: $3000.00 COP,
-CC: 125,
-Precio Final: $3150.00 COP
+**Marca:** Honda,
+**Modelo:** CBR125R,
+**Precio Base:** $3000.00 COP,
+**CC:** 125,
+**Precio Final:** $3150.00 COP
 
 --- Total del inventario ---
 
