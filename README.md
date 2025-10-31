@@ -12,9 +12,9 @@ Sistema orientado a objetos para la gestión de vehículos. Calcula automáticam
 
 ## 📁 Estructura del Proyecto
 
-├── vehiculo.py # Clase abstracta Vehiculo
-├── moto.py # Clase Moto (hereda de Vehiculo)
-├── automovil.py # Clase Automovil (hereda de Vehiculo)
+├── vehiculo.py # Clase abstracta Vehiculo  
+├── moto.py # Clase Moto (hereda de Vehiculo)  
+├── automovil.py # Clase Automovil (hereda de Vehiculo)  
 └── main.py # Programa principal con demostración
 
 ## 🚀 Instalación y Ejecución
