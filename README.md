@@ -27,10 +27,13 @@ git clone https://github.com/camilo1895/concesionarioPOO-Python-.git
 
 # Navegar al directorio
 cd concesionarioPOO-Python-
+```
 
 ## ▶️ Cómo Ejecutar
+
 Ejecuta el programa principal con:
 
+```bash
 python main.py
 ```
 
