@@ -1,10 +1,10 @@
 # 🚗 Sistema de Gestión de Vehículos
 
-**Fecha:** 30 de Octubre del 2025
-**Nombre del estudiante** Ivan Camilo Guarnizo Cala
-**Materia** Lenguaje de programación 2
+**Fecha:** 30 de Octubre del 2025  
+**Estudiante:** Ivan Camilo Guarnizo Cala  
+**Materia:** Lenguaje de Programación 2  
 **Lenguaje:** Python  
-**Paradigma:** Programación Orientada a Objetos
+**Paradigma:** Programación Orientada a Objetos (POO)
 
 ## 📋 Descripción
 
@@ -17,11 +17,20 @@ Sistema orientado a objetos para la gestión de vehículos. Calcula automáticam
 ├── automovil.py # Clase Automovil (hereda de Vehiculo)
 └── main.py # Programa principal con demostración
 
-## ▶️ Cómo Ejecutar
+## 🚀 Instalación y Ejecución
 
-Ejecuta el programa principal con:
+### Instalación
 
 ```bash
+# Clonar o descargar el proyecto
+git clone https://github.com/camilo1895/concesionarioPOO-Python-.git
+
+# Navegar al directorio
+cd concesionarioPOO-Python-
+
+## ▶️ Cómo Ejecutar
+Ejecuta el programa principal con:
+
 python main.py
 ```
 
