@@ -23,7 +23,7 @@ Ejecuta el programa principal con:
 python main.py
 ```
 
-## 📤 Salida Esperad
+## 📤 Salida Esperada
 
 ### Vehiculo: Automóvil
 
