@@ -1,6 +1,8 @@
 # 🚗 Sistema de Gestión de Vehículos
 
-**Fecha:** Octubre 2025
+**Fecha:** 30 de Octubre del 2025
+**Nombre del estudiante** Ivan Camilo Guarnizo Cala
+**Materia** Lenguaje de programación 2
 **Lenguaje:** Python  
 **Paradigma:** Programación Orientada a Objetos
 
